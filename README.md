@@ -7,7 +7,7 @@ Esta é a landing page da **Ecosolary Renewable Energy**. Ela foi gerada automat
 ## Estrutura
 - `index.html` contém a página inteira.
 - `css/` guarda o Bootstrap e os estilos com a paleta do cliente (primária `#7b1e3c`, destaque `#f5a623`, escura `#2b0d1c`).
-- `js/` controla carrosséis, navegação, o vídeo do banner e o formulário que abre o WhatsApp `(98) 3197-7037`.
+- `js/` controla carrosséis, navegação, o vídeo do banner e o formulário que abre o WhatsApp `(98) 9120-7724`.
 - `video/` guarda o vídeo do banner (1080p e versão leve para celular) e a imagem de capa.
 - `img/` guarda as imagens: as `cliente-*.jpg` são fotos reais da empresa; as demais são genéricas.
 
@@ -19,9 +19,9 @@ Esta é a landing page da **Ecosolary Renewable Energy**. Ela foi gerada automat
 | Foto da loja e logo | img/cliente-1.jpg (fachada) e img/cliente-logo.png (logo recortado da fachada) | Foto do perfil no Google Maps |
 | Frase e produto | "Saber aproveitar o melhor da natureza é investir em produção de energia solar" · banner "Kit de energia solar" | Fachada da loja (foto do Maps) |
 | Link de WhatsApp antigo | mywhats.net/ecosolary, hoje um domínio estacionado (não leva ao WhatsApp) | Verificado no Chrome em 03/11/2026 |
+| WhatsApp | (98) 9120-7724 | Informado pelo Vinícius em 03/11/2026 |
 
 ## Confirmar com o cliente
-- Se o (98) 3197-7037 tem WhatsApp. O formulário e os botões de WhatsApp usam esse número; se não for, troque pelo número correto no JSON.
 - Instagram da empresa (não encontrado).
 - Se a empresa faz instalação residencial (o diretório cita só "comercial").
 - Pedir o logo original em boa qualidade (o atual foi recortado da foto da fachada).
